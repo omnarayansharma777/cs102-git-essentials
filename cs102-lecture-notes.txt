@@ -3,3 +3,17 @@ git log - to see old commit
 git commit -m "----"   - to commit 
 git add . - to add files in staging area and untracked files to tracked files
 git clone "url" - to clone a repositories
+
+
+there are 2 types of language markup and markdown.
+arkup and markdown languages are used to format and style text documents in a way that is easy to read and understand. Markup languages use tags to indicate how the text should be formatted, while markdown languages use a simplified syntax to achieve the same effect.
+
+Markup languages such as HTML and XML are commonly used for web pages and other online documents, allowing for the creation of structured content with headings, paragraphs, and lists. They can also include multimedia elements such as images, audio, and video.
+
+Markdown languages, on the other hand, are designed for simpler formatting, making them ideal for quick and easy text editing. They are often used for creating documentation, README files, and other types of text files that require simple formatting.
+
+Overall, markup and markdown languages are valuable tools for creating visually appealing and well-organized documents.
+
+xml is used to store data 
+html is mainly used to display things in the webpage 
+wikipedia does not have a typical markdown language 
