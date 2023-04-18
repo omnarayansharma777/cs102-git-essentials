@@ -1,0 +1,5 @@
+git status- to check the staging area tracked and untracked and modified files and many more 
+git log - to see old commit
+git commit -m "----"   - to commit 
+git add . - to add files in staging area and untracked files to tracked files
+git clone "url" - to clone a repositories
